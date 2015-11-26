@@ -11,6 +11,7 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/megha/software/weka-3-6-13/weka.jar"/>
+	<classpathentry kind="lib" path="/media/megha/78A04C39A04BFC5E/Software/weka-3-7-13/weka.jar"/>
+	<classpathentry kind="lib" path="/media/megha/78A04C39A04BFC5E/Software/weka-3-7-13/weka-src.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
